@@ -8,3 +8,4 @@ Liste des cartes dans ce répértoire:
 |----|-------------|
 |AAA | Carte de prototypage petite pour CAN Transreceiver MCP2551  | 
 |AAB | Carte de prototypage grande pour CAN Transreceiver MCP2551  | 
+|BAA | Carte du module de base pour toutes les STM32 v1            |
