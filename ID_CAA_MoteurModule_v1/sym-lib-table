@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "JCK2012S12 lib")(type Legacy)(uri "${KIPRJMOD}/JCK2012S12 lib.lib")(options "")(descr ""))
+)
